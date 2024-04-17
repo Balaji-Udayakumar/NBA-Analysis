@@ -68,4 +68,3 @@ We have provided a comprehensive analysis and recommendations for the potential 
 6. https://explodingtopics.com/blog/smartphone-usage-stats
 7. https://playtoday.co/blog/stats/basketball-viewership-statistics/
 8. https://napoleoncat.com/stats/facebook-users-in-
-![image](https://github.com/Balaji-Udayakumar/NBA-Analysis/assets/37776875/c54ab2ff-5447-4f6f-8f39-f0be13c32bd7)
